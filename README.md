@@ -1,14 +1,5 @@
 # Benchmarking Single-Cell Foundation Models in Zero-Shot Settings
 
-**Exploring the Power of Foundation Models in Genomics**
-
-Somaia Ahmed & Yasmine Mahmoud 
-Department of Systems and Biomedical Engineering, Cairo University
-
----
-
-## Overview
-
 Single-cell foundation models promise transferable, general-purpose representations of transcriptomic data — but how well do they actually hold up against simple, task-specific baselines? This project benchmarks **four single-cell foundation models** — **scGPT**, **UCE**, **SCimilarity**, and **Transcriptformer** — in a **zero-shot** setting (pretrained embeddings, no fine-tuning) across four downstream tasks:
 
 1. **Cell Type Annotation**
