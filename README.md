@@ -68,18 +68,34 @@ BENCHMARKING-OF-TRANSCRIPTOMICS-FOUNDATION-MODELS/
 │   ├── Transcriptformer_cross_species_integration.ipynb
 │   ├── Transcriptformer_integration.ipynb
 │   └── Transcriptformer_protein_expression_prediction.ipynb
-|
 ├── UCE/
-│   ├── UCE_annotation.ipynb
-│   ├── UCE_cross_species_integration.ipynb
-│   ├── UCE_integration.ipynb
-│   └── UCE_protein_expression_prediction.ipynb
-|
+│   ├── Annotation/ 
+│                   ├── UCE_1kPBMCs.ipynb
+│                   ├── UCE_HBECs.ipynb
+│                   ├── UCE_Pancreas_Human.ipynb
+│                   └── UCE_Pancreas_Mouse
+│   ├── Integration/
+│                   ├── UCE_Lung_Human_Integration.ipynb
+│                   ├── UCE_Pancreas_Human_Integration.ipynb
+│                   ├── UCE_Colon_Human+Monkey.ipynb
+│                   └── UCE_Pancreas_Human+Mouse.ipynb
+│   ├── Protein_Expression/
+│                   ├── BMMCs_UCE.ipynb
+│                   └── CBMCs_UCE.ipynb
 ├── SCimilarity/
-│   ├── SCimilarity_annotation.ipynb
-│   ├── SCimilarity_cross_species_integration.ipynb
-│   ├── SCimilarity_integration.ipynb
-│   └── SCimilarity_protein_expression_prediction.ipynb
+│   ├── Annotation/ 
+│                   ├── SCimilarity_1kPBMCs.ipynb
+│                   ├── SCimilarity_HBECs.ipynb
+│                   ├── SCimilarity_Pancreas_Human.ipynb
+│                   └── SCimilarity_Pancreas_Mouse
+│   ├── Integration/
+│                   ├── SCimilarity_Lung_Human_Integration.ipynb
+│                   ├── SCimilarity_Pancreas_Human_Integration.ipynb
+│                   ├── SCimilarity_Colon_Human+Monkey.ipynb
+│                   └── SCimilarity_Pancreas_Human+Mouse.ipynb
+│   ├── Protein_Expression/
+│                   ├── BMMCs_SCimilarity.ipynb
+│                   └── CBMCs_SCimilarity.ipynb
 └── README.md
 ```
 
