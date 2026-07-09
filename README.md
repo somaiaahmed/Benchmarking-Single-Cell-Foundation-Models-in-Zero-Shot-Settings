@@ -87,7 +87,7 @@ BENCHMARKING-OF-TRANSCRIPTOMICS-FOUNDATION-MODELS/
 │   │               ├── SCimilarity_1kPBMCs.ipynb
 │   │               ├── SCimilarity_HBECs.ipynb
 │   │               ├── SCimilarity_Pancreas_Human.ipynb
-│   │               └── SCimilarity_Pancreas_Mouse
+│   │               └── SCimilarity_Pancreas_Mouse.ipynb
 │   ├── Integration/
 │   │               ├── SCimilarity_Lung_Human_Integration.ipynb
 │   │               ├── SCimilarity_Pancreas_Human_Integration.ipynb
