@@ -69,31 +69,31 @@ BENCHMARKING-OF-TRANSCRIPTOMICS-FOUNDATION-MODELS/
 │   ├── Transcriptformer_integration.ipynb
 │   └── Transcriptformer_protein_expression_prediction.ipynb
 ├── UCE/
-│   ├── Annotation/ 
+│   ├── CellType_Annotation/ 
 │   │               ├── UCE_1kPBMCs.ipynb
 │   │               ├── UCE_HBECs.ipynb
 │   │               ├── UCE_Pancreas_Human.ipynb
 │   │               └── UCE_Pancreas_Mouse
-│   ├── Integration/
+│   ├── Data_Integration/
 │   │               ├── UCE_Lung_Human_Integration.ipynb
 │   │               ├── UCE_Pancreas_Human_Integration.ipynb
 │   │               ├── UCE_Colon_Human+Monkey.ipynb
 │   │               └── UCE_Pancreas_Human+Mouse.ipynb
-│   └──Protein_Expression/
+│   └──Protein_Expression_Prediction/
 │                   ├── BMMCs_UCE.ipynb
 │                   └── CBMCs_UCE.ipynb
 ├── SCimilarity/
-│   ├── Annotation/ 
+│   ├── CellType_Annotation/ 
 │   │               ├── SCimilarity_1kPBMCs.ipynb
 │   │               ├── SCimilarity_HBECs.ipynb
 │   │               ├── SCimilarity_Pancreas_Human.ipynb
 │   │               └── SCimilarity_Pancreas_Mouse.ipynb
-│   ├── Integration/
+│   ├── Data_Integration/
 │   │               ├── SCimilarity_Lung_Human_Integration.ipynb
 │   │               ├── SCimilarity_Pancreas_Human_Integration.ipynb
 │   │               ├── SCimilarity_Colon_Human+Monkey.ipynb
 │   │               └── SCimilarity_Pancreas_Human+Mouse.ipynb
-│   └──Protein_Expression/
+│   └──Protein_Expression_Prediction/
 │                   ├── BMMCs_SCimilarity.ipynb
 │                   └── CBMCs_SCimilarity.ipynb
 └── README.md
@@ -127,4 +127,4 @@ Department of Systems and Biomedical Engineering, Cairo University, 2026.
 
 ## Contact
 - Somaia Ahmed — somaia.ahmed03@gmail.com
-- Yasmine Gaballa — yasmine.fotouh03@eng-st.cu.edu.eg
+- Yasmine Gaballa — yasminemahmoudsalah@gmail.com
