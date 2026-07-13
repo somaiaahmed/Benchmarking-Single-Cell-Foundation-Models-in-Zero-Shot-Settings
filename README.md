@@ -59,15 +59,20 @@ Nine single-cell datasets spanning multiple tissues, species, and cell counts we
 ```
 BENCHMARKING-OF-TRANSCRIPTOMICS-FOUNDATION-MODELS/
 ├── scGPT/
-│   ├── scGPT_annotation.ipynb
-│   ├── scGPT_cross_species_integration.ipynb
-│   ├── scGPT_data_integration.ipynb
-│   └── scGPT_protein_expression_prediction.ipynb
+├── CellType_Annotation/ 
+│   │               └── scGPT_annotation.ipynb
+│   ├── Data_Integration/
+│   │               ├── scGPT_cross_species_integration.ipynb
+│   │               └── scGPT_data_integration.ipynb
+│   └──Protein_Expression_Prediction/
+│                   └── scGPT_protein_expression_prediction.ipynb
 ├── Transcriptformer/
-│   ├── Transcriptformer_annotation.ipynb
-│   ├── Transcriptformer_cross_species_integration.ipynb
-│   ├── Transcriptformer_integration.ipynb
-│   └── Transcriptformer_protein_expression_prediction.ipynb
+│   │               └── Transcriptformer_annotation.ipynb
+│   ├── Data_Integration/
+│   │               ├── Transcriptformer_cross_species_integration.ipynb
+│   │               └── Transcriptformer_data_integration.ipynb
+│   └──Protein_Expression_Prediction/
+│                   └── Transcriptformer_protein_expression_prediction.ipynb
 ├── UCE/
 │   ├── CellType_Annotation/ 
 │   │               ├── UCE_1kPBMCs.ipynb
