@@ -46,13 +46,13 @@ Nine single-cell datasets spanning multiple tissues, species, and cell counts we
 | NHPCA | 6,600 | Macaque | Colon | Cross-species |
 | CBMCs | 8,600 | Human | Blood | Protein Expression |
 | BMMCs | 20,000 | Human | Bone Marrow | Protein Expression | -->
-
+<!-- 
 ## Methodology Summary
 
 - **Cell Type Annotation** — Logistic Regression & KNN (k=15) trained on embeddings vs. HVG features, 5-fold stratified CV, evaluated with **Macro F1**.
 - **Data Integration** — Foundation model embeddings compared against **scVI** (2 hidden layers, 30 latent dims, top 4,000 HVGs). Evaluated with **Silhouette Score** and **LISI** (cell-type & dataset/species mixing).
 - **Label Transfer** — Classifier trained on a source dataset, evaluated on a target dataset (within- and cross-species), scored with **Macro F1**.
-- **Protein Expression Prediction** — Linear Regression on CITE-seq datasets (paired RNA + protein), 5-fold CV, evaluated with **Pearson correlation** and **RMSE**.
+- **Protein Expression Prediction** — Linear Regression on CITE-seq datasets (paired RNA + protein), 5-fold CV, evaluated with **Pearson correlation** and **RMSE**. -->
 
 ## Repository Structure
 
